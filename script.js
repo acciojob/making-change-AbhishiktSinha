@@ -4,13 +4,13 @@ const makeChange = (c) => {
 		q: "",
 		d: "",
 		n: "",
-		c: ""
+		p: ""
 	};
 	let coinValue={
 		q: "25",
 		d: "10",
 		n: "5",
-		c: "1"
+		p: "1"
 	};
 
 	for(let coin in coinValue) {
